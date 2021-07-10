@@ -2,8 +2,7 @@
 [![Azure DevOps coverage](https://img.shields.io/azure-devops/coverage/asottile/asottile/17/master.svg)](https://dev.azure.com/asottile/asottile/_build/latest?definitionId=17&branchName=master)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/pre-commit/pre-commit-hooks/master.svg)](https://results.pre-commit.ci/latest/github/pre-commit/pre-commit-hooks/master)
 
-pre-commit-hooks
-================
+# pre-commit-hooks
 
 Some out-of-the-box hooks for pre-commit.
 
